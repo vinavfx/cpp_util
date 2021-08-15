@@ -1,3 +1,7 @@
+// Author: Francisco José Contreras Cuevas
+// Office: Senior VFX Compositor & 3D FX Artist
+// Website: videovina.com
+
 #ifndef UTIL_HPP
 #define UTIL_HPP
 #include <iostream>

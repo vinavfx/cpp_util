@@ -1,3 +1,7 @@
+// Author: Francisco José Contreras Cuevas
+// Office: Senior VFX Compositor & 3D FX Artist
+// Website: videovina.com
+
 #include "os.h"
 #include <QDebug>
 #include <QString>

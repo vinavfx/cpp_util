@@ -1,3 +1,6 @@
+// Author: Francisco José Contreras Cuevas
+// Office: Senior VFX Compositor & 3D FX Artist
+// Website: videovina.com
 
 // librereias propias
 #include "util.h"
